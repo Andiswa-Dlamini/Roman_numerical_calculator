@@ -6,7 +6,7 @@ body {
 
 #converter {
   position: relative;
-  left: 180px;
+  left: 220px;
   top: 0;
   height: 50vh;
   width: 60%;
@@ -44,7 +44,7 @@ body {
 
 #output {
   position: relative;
-  left: 130px;
+  left: 220px;
   height: fit-content;
   width: 60%;
   color: white;

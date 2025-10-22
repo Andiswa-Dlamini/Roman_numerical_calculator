@@ -1,0 +1,56 @@
+body {
+  background: rgb(1, 9, 70);
+  text-align: center;
+  color: white;
+}
+
+#converter {
+  position: relative;
+  left: 130px;
+  top: 0;
+  height: 50vh;
+  width: 60%;
+  padding: 20px;
+  color: white;
+  opacity: 0.8;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  border: 2px solid #fff;
+
+}
+
+#number {
+  /* position: sticky; */
+  height: 5vh;
+  width: 80%;
+  padding: 13px;
+  color: white;
+  font-size: 25px;
+  border: 1px solid #fff;
+  background: transparent;
+  margin-bottom: 19px;
+}
+
+#convert-btn {
+  position: relative;
+  height: 12vh;
+  width: 86%;
+  padding: 13px;
+  font-size: 25px;
+  background: orange;
+  border: 1px solid rgb(255, 145, 1);
+}
+
+#output {
+  position: relative;
+  left: 130px;
+  height: fit-content;
+  width: 60%;
+  color: white;
+  padding: 20px;
+  margin-top: 20px;
+  font-size: 25px;
+  border: 2px solid #fff;
+  opacity: 0.5;
+}

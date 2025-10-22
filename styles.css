@@ -6,7 +6,7 @@ body {
 
 #converter {
   position: relative;
-  left: 130px;
+  left: 180px;
   top: 0;
   height: 50vh;
   width: 60%;
@@ -35,7 +35,7 @@ body {
 #convert-btn {
   position: relative;
   height: 12vh;
-  width: 86%;
+  width: 50%;
   padding: 13px;
   font-size: 25px;
   background: orange;
